@@ -107,7 +107,3 @@ landing-page-advocacia/
 ## Suporte
 
 Para dúvidas sobre personalização ou problemas técnicos, consulte a documentação dos arquivos ou entre em contato com o desenvolvedor.
-
-# consultoria
-# consultoria
-# consultoria
