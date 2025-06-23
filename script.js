@@ -336,7 +336,7 @@ function setupContactForm() {
                      `Mensagem:%0D%0A${mensagem}`;
         
         // Criar link mailto
-        const mailtoLink = `mailto:felipecaleme@yahoo.com.br?subject=${encodeURIComponent(assunto)}&body=${corpo}`;
+        const mailtoLink = `mailto:novaaconsultoria@outlook.com?subject=${encodeURIComponent(assunto)}&body=${corpo}`;
         
         // Abrir cliente de e-mail
         window.location.href = mailtoLink;
